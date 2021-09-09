@@ -1,6 +1,6 @@
 #Problem Set 1a
 #Name: Rashmi Sharma
-#Time Spent : 8hrs
+#Time Spent : 3hrs
 
 
 
