@@ -18,7 +18,7 @@ guesses = ''
 print("मैं एक ऐसे शब्द के बारे में सोच रहा हूं जो",len(word),"अक्षर लंबा है")
  
                 
-turns = 8             
+turns = 10           
  
  
 while turns > 0:
